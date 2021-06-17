@@ -1,2 +1,2 @@
 # BPDG
-This code will be released when TNNLS accepted.
+This code will be released soon.
