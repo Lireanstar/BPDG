@@ -52,13 +52,12 @@ If you have any questions, feel free to email me at libincn@hnu.edu.cn.
 ## Citation
 Please feel free to cite our [paper]{https://arxiv.org/abs/2106.07857).
 
-    @article{li2021bilateral,
-      title={Bilateral Personalized Dialogue Generation with Contrastive Learning},
+    @article{li2022bilateral,
+      title={Bilateral personalized dialogue generation with contrastive learning},
       author={Li, Bin and Deng, Hanjun},
-      journal={arXiv preprint arXiv:2106.07857},
-      booktitle={Arxiv},
-      year={2021},
-      url={https://arxiv.org/abs/2106.07857}
+      journal={Soft Computing},
+      pages={1--18},
+      year={2022},
+      publisher={Springer}
     }
-
 
