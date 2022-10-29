@@ -50,7 +50,7 @@ This repository  also contains other state-of-the-art methods for reproductions.
 If you have any questions, feel free to email me at libincn@hnu.edu.cn.
 
 ## Citation
-Please feel free to cite our [paper]{https://arxiv.org/abs/2106.07857).
+Please feel free to cite our [paper]{https://link.springer.com/article/10.1007/s00500-022-07495-w).
 
     @article{li2022bilateral,
       title={Bilateral personalized dialogue generation with contrastive learning},
